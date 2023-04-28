@@ -1,0 +1,44 @@
+body {
+      background-color: #FDF5E6;
+      background: no-repeat;
+      
+    }
+hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: goldenrod;
+      border-width: 5px;
+      width: 5%;
+    }
+img {
+      height: 100%;
+      width: 100%;
+    }
+h1 {
+      color: olive;
+      height: 100%;
+      width: 100%;  
+    }
+p{
+      height: 100%;
+      width: 100%;  
+    }
+h3{
+      color: olive;
+      height: 100%;
+      width: 100%;  
+    }
+thead{
+      color: #000;
+}
+tbody{
+      color: black;
+    }
+a:hover{
+      background-color: #c99b46;
+}
+
+.conbody{
+      background-color: #FDF5E6;
+      background: no-repeat;
+}
